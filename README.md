@@ -14,4 +14,5 @@ yarn add -D tailwindcss postcss autoprefixer
 ~~~
 yarn add -D prettier prettier-plugin-tailwindcss
 ~~~
+1
 https://tailwindcss.com/docs/guides/nextjs

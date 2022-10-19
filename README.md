@@ -6,7 +6,7 @@ npm install --global yarn
 npx create-next-app todo-app --typescript
 ~~~
 ~~~
-yarn add @heroicons/react@1.0.6 @supabase/supabase-js react-query zustand
+yarn add @heroicons/react@1.0.6 @supabase/supabase-js@1.33.3 react-query zustand
 ~~~
 ~~~
 yarn add -D tailwindcss postcss autoprefixer

@@ -3,10 +3,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Project setup
 ~~~
 npm install --global yarn
-npx create-next-app todo-app --typescript
+npx create-next-app todo-app@12.3.3 --typescript
+yarn add next@12.3.3
 ~~~
 ~~~
-yarn add @heroicons/react@1.0.6 @supabase/supabase-js@1.33.3 react-query zustand
+yarn add @heroicons/react@1.0.6 @supabase/supabase-js@1.33.3 react-query zustand@3.7.1
 ~~~
 ~~~
 yarn add -D tailwindcss postcss autoprefixer

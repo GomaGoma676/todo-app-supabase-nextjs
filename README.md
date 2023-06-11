@@ -9,7 +9,7 @@ npx create-next-app todo-app@12.3.3 --typescript
 yarn add next@12.3.3
 ~~~
 ~~~
-yarn add @heroicons/react@1.0.6 @supabase/supabase-js@1.33.3 react-query zustand@3.7.1
+yarn add @heroicons/react@1.0.6 @supabase/supabase-js@1.33.3 react-query@3.34.19 zustand@3.7.1
 ~~~
 ~~~
 yarn add -D tailwindcss postcss autoprefixer
